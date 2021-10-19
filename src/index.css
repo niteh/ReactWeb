@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.max-height-300{
+  height: 300px!important;
+  
+  text-align: center;
+}
