@@ -16,7 +16,7 @@ const About = () => {
   return (
     <>
   
-   <Jumbotron headertext="Heading About" imgSrc={web} visit="/contact" subheadertext="Sub Heading About" btnName="Go to Contact" />
+   <Jumbotron headertext="Our Organization" imgSrc={web} visit="/contact" subheadertext="Sub Heading About" btnName="Go to Contact" />
    <Heading heading="About Us" />
    <SampleContent imgSrc={webFirst} contentText="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."/>
     </>
