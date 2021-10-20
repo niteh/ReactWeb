@@ -5,7 +5,7 @@ import Heading from "./Heading";
 const Contact = () => {
   return (
     <>
-  <Heading heading="Welcome Contact" />
+  <Heading heading="Welcome Contact Us" />
    
 
   <div className="container-fluid">
